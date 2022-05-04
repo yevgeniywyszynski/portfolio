@@ -19,6 +19,7 @@
     "react-slick": "^0.28.1",
     "react-tabs": "^3.2.2",
     "react-transition-group": "^4.4.2",
+    "sass-loader": "^12.6.0",
     "slick-carousel": "^1.8.1",
     "web-vitals": "^1.0.1"
   },
