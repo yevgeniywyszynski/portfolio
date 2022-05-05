@@ -13,7 +13,7 @@ const experienceContent = [
   },
   {
     year: "2019 - 2020",
-    position: " Project Maneger",
+    position: " Project Manager",
     compnayName: "CASIO",
     details: ` Responsible for introducing new company educational programs in Poland.
     Planning and implementing marketing strategy.
