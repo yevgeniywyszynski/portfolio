@@ -2,7 +2,15 @@ import React from "react";
 
 const experienceContent = [
   {
-    year: "  2021 - 2022",
+    year: "2022 - now",
+    position: "Intern",
+    compnayName: "SmartDust Mobile Lab",
+    details: `Participation in business projects of the Frontend application (React).
+    Implementation of efficient and effective code in accordance with the requirements specification. Removal of errors found in the software. 
+    Modification and maintenance of already existing websites and applications. Cooperation with back-end developer.`
+  },
+  {
+    year: "2021 - 2022",
     position: "Bootcamp",
     compnayName: "Kodilla",
     details: `Building websites and web application interfaces (CSS3 HTML5, React, Node.js/Electron).
