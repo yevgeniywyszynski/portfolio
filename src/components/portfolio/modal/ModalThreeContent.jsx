@@ -19,7 +19,7 @@ const ModalThreeContent = () => {
             <div className="col-12 col-sm-6 mb-2">
               <i className="fa fa-wrench pr-2"></i>
               <span className="project-label">Technologies </span>:{" "}
-              <span className="ft-wt-600 uppercase">React, Axios, Redux, Thunks </span>
+              <span className="ft-wt-600 uppercase">React, Axios, Redux, Thunks, React Hook, React Router</span>
             </div>
             {/* End .col */}
 
@@ -35,7 +35,7 @@ const ModalThreeContent = () => {
               <span className="project-label">Preview </span>:{" "}
               <span className="ft-wt-600 uppercase">
                 <a
-                  href="https://kantorzenia.herokuapp.com/"
+                  href="https://kantorapi.herokuapp.com/"
                   target="_blank"
                   rel="noreferrer"
                 >
