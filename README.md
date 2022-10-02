@@ -1,35 +1,5 @@
 
-Click here ywyszynski.com
-
-# Tunis Personal Portfolio React Template
-
-## Description
-
-Setup Procedure
-
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-npm run start
-```
-
-### Compiles and minifies for production
-
-```
-npm run build
-```
-
-### Lints and fixes files
-
-```
-npm run lint
-```
+See [Web Portfolio](https://ywyszynski.com/).
 
 ### Customize configuration (vue-cli)
 
